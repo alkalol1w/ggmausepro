@@ -110,7 +110,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
-        <!-- Ekran & Dokunma Ayarları -->
+        <!-- Ekran ve Dokunma Ayarları -->
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

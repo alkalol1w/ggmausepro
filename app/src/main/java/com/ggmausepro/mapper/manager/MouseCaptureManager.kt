@@ -77,6 +77,11 @@ object MouseCaptureManager {
 
     private lateinit var prefs: SharedPreferences
 
+    fun getSensitivity(): Float = sensitivity
+    fun setSensitivity(value: Float) { sensitivity = value }
+    fun isInvertY(): Boolean = invertY
+    fun setInvertY(value: Boolean) { invertY = value }
+
     // Callback interface for processed mouse movements
     interface MouseMoveListener {
         fun onMouseMove(fromX: Float, fromY: Float, toX: Float, toY: Float, duration: Long)

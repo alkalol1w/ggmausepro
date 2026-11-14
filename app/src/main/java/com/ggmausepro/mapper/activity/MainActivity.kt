@@ -104,8 +104,6 @@ class MainActivity : AppCompatActivity() {
                 }
             }
 
-            override fun無視(parent: AdapterView<*>?) {}
-            private fun AdapterView<*>?.無視(parent: AdapterView<*>?) {}
             override fun onNothingSelected(parent: AdapterView<*>?) {}
         }
     }
