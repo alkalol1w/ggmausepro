@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulama Adı -->
+    <string name="app_name">GGMausePro</string>
+
+    <!-- Ana Ekran -->
+    <string name="main_title">GGMausePro</string>
+    <string name="main_subtitle">Klavye ve fare ile PUBG Mobile oyna (Sıfır Gecikme)</string>
+    <string name="status_section_title">SİSTEM DURUMU</string>
+    <string name="service_status">Erişilebilirlik Hizmeti</string>
+    <string name="service_enabled">AKTİF</string>
+    <string name="service_disabled">KAPALI</string>
+    <string name="overlay_status">Ekran Üstü Kaplama İzni</string>
+    <string name="overlay_granted">VERİLDİ</string>
+    <string name="overlay_not_granted">VERİLMEDİ</string>
+    <string name="active_profile_label">Aktif Oyun Profili</string>
+    <string name="no_active_profile">Seçili Profil Yok</string>
+
+    <string name="enable_accessibility">Hizmeti Aç</string>
+    <string name="grant_overlay">Kaplama İzni Ver</string>
+    <string name="start_mapping">EŞLEMEYİ BAŞLAT</string>
+    <string name="stop_mapping">EŞLEMEYİ DURDUR</string>
+    <string name="mapping_inactive">Eşleme şu anda durduruldu</string>
+
+    <string name="quick_profile">Hızlı Profil Seçimi</string>
+    <string name="mouse_sensitivity_label">Fare Hassasiyeti</string>
+    <string name="edit_key_layout">Tuş Düzenini Ayarla (Ekran)</string>
+    <string name="profiles_button">Profiller</string>
+    <string name="settings_button">Ayarlar</string>
+
+    <!-- Eğitim & Yönergeler -->
+    <string name="tutorial_title">NASIL KULLANILIR? (ADIM ADIM)</string>
+    <string name="tutorial_step1">1. OTG adaptörü veya Bluetooth ile klavye ve fareyi telefona bağlayın.</string>
+    <string name="tutorial_step2">2. Sıfır gecikme için Shizuku uygulamasını açıp çalıştırın.</string>
+    <string name="tutorial_step3">3. Yukarıdan \'Hizmeti Aç\' ve \'Kaplama İzni Ver\' butonlarına tıklayın.</string>
+    <string name="tutorial_step4">4. \'Eşlemeyi Başlat\'a basın ve PUBG Mobile oyununu açın.</string>
+    <string name="tutorial_step5">5. Ekrandaki şamandıra ikondan tuşları oyun butonlarının tam üstüne sürükleyin.</string>
+
+    <!-- Profil Ekranı -->
+    <string name="profiles_title">Oyun Profilleri</string>
+    <string name="profile_title">Profiller</string>
+    <string name="prebuilt_profiles_title">HAZIR OYUN PROFİLLERİ</string>
+    <string name="profile_pubg">PUBG Mobile</string>
+    <string name="profile_cod">COD Mobile</string>
+    <string name="profile_freefire">Free Fire</string>
+    <string name="import_profile">İçe Aktar (JSON)</string>
+    <string name="export_profile">Dışa Aktar (JSON)</string>
+    <string name="no_profiles">Kayıtlı profil bulunamadı.</string>
+    <string name="create_profile">Yeni Profil</string>
+
+    <!-- Tuş Eşleme Ekranı -->
+    <string name="key_mapping_title">Tuş Eşlemeleri</string>
+    <string name="test_mapping">Test Modu</string>
+    <string name="visual_editor">Görsel Düzenleyici (Overlay)</string>
+    <string name="no_mappings">Henüz tuş eşlemesi yok. Yeni eklemek için + butonuna basın.</string>
+    <string name="add_mapping">Tuş Ekle</string>
+
+    <!-- Ayarlar -->
+    <string name="settings_title">Ayarlar</string>
+
+    <!-- Erişilebilirlik Servisi -->
+    <string name="accessibility_service_description">GGMausePro, PUBG Mobile ve diğer FPS oyunlarında klavye ve fare ile sıfır gecikmeli oyun oynamayı sağlayan gelişmiş tuş eşleme motorudur.</string>
+</resources>

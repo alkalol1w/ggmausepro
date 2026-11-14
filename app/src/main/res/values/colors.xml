@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Deep Purple Gaming Theme -->
+    <color name="purple_primary">#FF7B2FF7</color>
+    <color name="purple_primary_variant">#FF5A1DB6</color>
+    <color name="purple_on_primary">#FFFFFFFF</color>
+    <color name="purple_primary_container">#FFE8DDFF</color>
+    <color name="purple_on_primary_container">#FF21005D</color>
+
+    <!-- Secondary Colors - Electric Blue -->
+    <color name="blue_secondary">#FF2196F3</color>
+    <color name="blue_secondary_variant">#FF1565C0</color>
+    <color name="blue_on_secondary">#FFFFFFFF</color>
+    <color name="blue_secondary_container">#FFCEE5FF</color>
+    <color name="blue_on_secondary_container">#FF001D36</color>
+
+    <!-- Tertiary Colors - Neon Cyan -->
+    <color name="cyan_tertiary">#FF00E5FF</color>
+    <color name="cyan_on_tertiary">#FF003544</color>
+    <color name="cyan_tertiary_container">#FF004D63</color>
+    <color name="cyan_on_tertiary_container">#FF97F0FF</color>
+
+    <!-- Dark Theme Surface Colors -->
+    <color name="dark_surface">#FF121218</color>
+    <color name="dark_surface_variant">#FF1E1E2E</color>
+    <color name="dark_on_surface">#FFE6E1E5</color>
+    <color name="dark_on_surface_variant">#FFCAC4D0</color>
+    <color name="dark_surface_container">#FF1D1B20</color>
+    <color name="dark_surface_container_high">#FF2B2930</color>
+    <color name="dark_surface_container_highest">#FF36343B</color>
+
+    <!-- Background -->
+    <color name="dark_background">#FF0D0D14</color>
+    <color name="dark_on_background">#FFE6E1E5</color>
+
+    <!-- Error Colors -->
+    <color name="error">#FFF2B8B5</color>
+    <color name="on_error">#FF601410</color>
+    <color name="error_container">#FF8C1D18</color>
+    <color name="on_error_container">#FFF9DEDC</color>
+
+    <!-- Outline -->
+    <color name="outline">#FF938F99</color>
+    <color name="outline_variant">#FF49454F</color>
+
+    <!-- Gaming Accent Colors -->
+    <color name="accent_neon_green">#FF39FF14</color>
+    <color name="accent_neon_pink">#FFFF1493</color>
+    <color name="accent_neon_orange">#FFFF6600</color>
+    <color name="accent_gold">#FFFFD700</color>
+
+    <!-- Status Colors -->
+    <color name="status_active">#FF4CAF50</color>
+    <color name="status_inactive">#FFEF5350</color>
+    <color name="status_warning">#FFFFB300</color>
+
+    <!-- Overlay Colors -->
+    <color name="overlay_background">#99000000</color>
+    <color name="overlay_touch_point">#807B2FF7</color>
+    <color name="overlay_touch_point_active">#FF7B2FF7</color>
+
+    <!-- Card Colors -->
+    <color name="card_background">#FF1E1E2E</color>
+    <color name="card_stroke">#FF49454F</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF7B2FF7</color>
+    <color name="gradient_center">#FF2196F3</color>
+    <color name="gradient_end">#FF00E5FF</color>
+
+    <!-- Ripple -->
+    <color name="ripple_color">#407B2FF7</color>
+
+    <!-- Standard MD3 seed color reference -->
+    <color name="seed">#FF7B2FF7</color>
+</resources>
